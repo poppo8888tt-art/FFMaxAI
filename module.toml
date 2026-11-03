@@ -1,0 +1,10 @@
+[project]
+name = "app"
+version = "1.0"
+type = "app"
+
+[dependencies]
+appcompat = "androidx.appcompat:appcompat:1.6.1"
+core-ktx = "androidx.core:core-ktx:1.12.0"
+tflite = "org.tensorflow:tensorflow-lite:2.14.0"
+tflite-support = "org.tensorflow:tensorflow-lite-support:0.4.4"
